@@ -144,7 +144,7 @@ jupyter-client==8.6.0
     # via
     #   ipykernel
     #   qtconsole
-jupyter-core==5.5.0
+jupyter-core==5.5.1
     # via
     #   ipykernel
     #   jupyter-client
